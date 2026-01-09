@@ -1,4 +1,4 @@
-# Login Use Case – UC-02
+# Login Use Case 
 
 ## 📌 Project Overview
 This project documents the **Login Use Case** for an online system. It describes how a registered online user logs into the system and accesses their account summary page.
@@ -58,21 +58,3 @@ This use case enables a registered online user to log into the system and access
 
 ---
 
-## 📂 Possible Enhancements
-- UML Use Case Diagram
-- Sequence Diagram
-- UI Wireframes
-- Additional Use Cases:
-  - Register
-  - Forgot Password
-  - Logout
-
----
-
-## 👤 Author
-**Saad Elboukhali**
-
----
-
-## ⭐ Notes
-This project can be extended into a full system requirements specification by adding more use cases and diagrams.
